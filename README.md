@@ -1,4 +1,4 @@
-# Women-s-Income-Equality
+# Womens-Income-Equality
 
 Author: Taaruni Ananya
 
